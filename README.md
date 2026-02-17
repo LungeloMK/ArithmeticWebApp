@@ -14,7 +14,6 @@ A simple Java EE web application that performs basic arithmetic operations (addi
 | ![Addition Form](add.png) | Addition form (`add.html`) |
 | ![Outcome Page](outcome.png) | Sample outcome page (`add_outcome.jsp`) |
 
-> **Note:** Place your screenshots in a `screenshots/` folder at the root of your repository.
 
 ---
 
