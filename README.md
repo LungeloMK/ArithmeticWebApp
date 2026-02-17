@@ -8,11 +8,11 @@ A simple Java EE web application that performs basic arithmetic operations (addi
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Project Structure](screenshots/pro_structure.png) | Project structure in NetBeans |
-| ![Home Page](screenshots/home.png) | Home page (`index.html`) |
-| ![Menu Page](screenshots/menuPage.png) | Menu page with operation links |
-| ![Addition Form](screenshots/add.png) | Addition form (`add.html`) |
-| ![Outcome Page](screenshots/outcome.png) | Sample outcome page (`add_outcome.jsp`) |
+| ![Project Structure](pro_structure.png) | Project structure in NetBeans |
+| ![Home Page](/home.png) | Home page (`index.html`) |
+| ![Menu Page](menuPage.png) | Menu page with operation links |
+| ![Addition Form](add.png) | Addition form (`add.html`) |
+| ![Outcome Page](outcome.png) | Sample outcome page (`add_outcome.jsp`) |
 
 > **Note:** Place your screenshots in a `screenshots/` folder at the root of your repository.
 
